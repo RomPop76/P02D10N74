@@ -20,9 +20,10 @@ console.log(typeof activeTask);
 
 
 var taskArray = [activeTask, 200, "bartek"]; //tablica
-var myNewFunction = function () {
+var myNewFunction = function (){
+
 }; //funkcja
 var myObj = {}; //objekt
 
-// console.log(taskArray);
+console.log(taskArray);
 // sparawdźmy typeof w konsoli
